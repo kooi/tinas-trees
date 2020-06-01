@@ -19,7 +19,7 @@ Wij gaan door middel van een _recursieve_ functie Tina een fractal laten tekenen
 ## Nuttige functies
 
 ### Window-functies
-* `tina.getscreen.exitonclick()` - Als Tina klaar is met tekenen sluit het venster. Als je dit toevoegt als laatste regel van je programma blijft het scherm open staan tot je ergens erin klikt. Zo kun je een screenshot ervan maken.
+* `tina.getscreen().exitonclick()` - Als Tina klaar is met tekenen sluit het venster. Als je dit toevoegt als laatste regel van je programma blijft het scherm open staan tot je ergens erin klikt. Zo kun je een screenshot ervan maken.
 
 ### Kleurfuncties
 De `kleur` die je hier invult kan de naam van de kleur zijn "white", "green", "purple" etc. maar ook een _RGB-tuple_: Dit is een lijst van 3 getallen tussen 0.0 en 1.0 die de kleurwaarde in rood, groen en blauw voorstellen. `(1.0, 0.0, 1.0)` is bijvoorbeeld paars.
