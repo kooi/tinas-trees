@@ -24,13 +24,13 @@ Wij gaan door middel van een _recursieve_ functie Tina een fractal laten tekenen
 
 ## tree_cutoff.py
 
-![Voorbeeld 1](examples/ex00.PNG "Een eerste boom")
+![Voorbeeld 1](examples/ex01.PNG "Een eerste boom")
 
 ## tree_color.py
 
-![Voorbeeld 2](examples/ex01.PNG "Veel takken")
-![Voorbeeld 3](examples/ex01.PNG "Twee bomen")
-![Voorbeeld 4](examples/ex01.PNG "Twee bomen met verscvhillende kleuren")
+![Voorbeeld 2](examples/ex02.PNG "Veel takken")
+![Voorbeeld 3](examples/ex03.PNG "Twee bomen")
+![Voorbeeld 4](examples/ex04.PNG "Twee bomen met verscvhillende kleuren")
 
 ## tree_full.py
 
