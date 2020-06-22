@@ -7,11 +7,8 @@ Wij gaan door middel van een _recursieve_ functie Tina een fractal laten tekenen
 1.  Dinsdagochtend is er een algemene inleiding waarin we een eerste versie van de code zullen maken en beschikbaar stellen.
 2.  Vervolgens is er per klas een vragenuurtje.
 3.  Je gaat vervolgens zelf met de code aan de slag om hier een verbetering is aan te brengen. Denk bijvoorbeeld aan het gebruik van _kleur_, andere regels voor het tekenen van takken, een ander aantal takken per generatie, het tekenen van bladeren, etc.
-4.  Dinsdagmiddag lever je je plan van aanpak in via moodle via de quiz.
-    -   Een korte beschrijving met wat je probeert aan te passen.
-    -   De huidige (beste) versie van je code.
-    -   Een screenshot van deze uitvoering.
-5. Donderdag lever je je eindproduct in via moodle. Dit is zowel je _volledige code_ als een _screenshot van het resultaat_.
+4.  Dinsdagmiddag lever je je plan van aanpak in via moodle.
+5.  Donderdag lever je je eindproduct in via moodle. Dit is zowel je _volledige code_ als een _screenshot van het resultaat_.
 
 ## Hints
 
