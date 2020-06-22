@@ -13,8 +13,8 @@ Wij gaan door middel van een _recursieve_ functie Tina een fractal laten tekenen
 ## Hints
 
 -   Sla je code vaak op _met een nieuwe bestandsnaam_. Zo raak je geen werk kwijt.
--   Je kunt hiervoor het beste werken met Thonny. Als dit echt niet lukt is het technisch gezien mogelijk te werken met de in-browser versie van python maar omdat Tina er vaak lang over doet zal dit niet altijd goed werken. Ook als je (per ongeluk) de pagina herlaadt ben je je werk kwijt. Download je code dus vaak.
--   Het uitvoeren van code zoals deze kan met de verkeerde instellingen _heel erg lang_ duren. Test de snelheid van je code.
+-   Je kunt hiervoor het beste werken met Thonny. Mocht je geen beschikking hebben over Thonny (chromebook bijvoorbeeld) dan kun je werken via [repl.it](https://repl.it/). Als dit nodig is vraag dan tijdens het vragenuurtje hulp aan je docent.
+-   Het uitvoeren van code zoals deze kan met de verkeerde instellingen _heel erg lang_ duren. Test de snelheid van je code (en gebruik `tina.speed(0)`).
 
 # Suggesties / Voorbeelden
 
