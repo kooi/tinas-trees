@@ -26,7 +26,7 @@ Wij gaan door middel van een _recursieve_ functie Tina een fractal laten tekenen
 
 ![Voorbeeld 2](examples/ex02.PNG "Veel takken")
 ![Voorbeeld 3](examples/ex03.PNG "Twee bomen")
-![Voorbeeld 4](examples/ex04.PNG "Twee bomen met verscvhillende kleuren")
+![Voorbeeld 4](examples/ex04.PNG "Twee bomen met verschillende kleuren")
 
 ## tree_full.py
 
@@ -45,9 +45,11 @@ Wij gaan door middel van een _recursieve_ functie Tina een fractal laten tekenen
 
 ### Kleurfuncties
 
-De `kleur` die je hier invult kan de naam van de kleur zijn "white", "green", "purple" etc. maar ook een _RGB-tuple_: Dit is een lijst van 3 getallen tussen 0.0 en 1.0 die de kleurwaarde in rood, groen en blauw voorstellen. `(1.0, 0.0, 1.0)` is bijvoorbeeld paars.
+De `kleur` die je hier invult kan de naam van de kleur zijn "white", "green", "purple" etc. (een volledige klijst van alle mogelijke namen staat hieronder) maar ook een _RGB-tuple_: Dit is tussen haakjes een lijst van 3 getallen tussen 0.0 en 1.0 die de kleurwaarde in rood, groen en blauw voorstellen. `(1.0, 0.0, 1.0)` is bijvoorbeeld paars.
 
 -   `pencolor(kleur)` - Stelt de penkleur van tina in.
 -   `tina.getscreen().bgcolor(kleur)` - Past de achtergrondkleur aan.
+
+![tkinter colors](img/colornames.png "Alle mogelijke kleuren")
 
 De volledige documentatie is [hier](https://docs.python.org/3.8/library/turtle.html) te vinden.
