@@ -42,6 +42,7 @@ Wij gaan door middel van een _recursieve_ functie Tina een fractal laten tekenen
 
 -   `pensize(grootte)` - De `grootte` is hier de dikte van de lijn die tina tekent in pixels.
 -   `circle(diameter)` - Tekent een cirkel met diameter `diameter`.
+-   `dot(diameter)` - Tekent een stip met diameter `diameter`.
 
 ### Kleurfuncties
 
