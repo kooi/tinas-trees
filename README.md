@@ -1,4 +1,4 @@
-# Tina's Tree
+# Tina's Trees
 
 ## Eindopdracht programmeren
 
